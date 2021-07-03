@@ -1,6 +1,11 @@
 # Optragen
-Matlab toolbox for parsing optimal control problems into nonlinear programming problem. This updated version works with fmincon, and does not need SNOPT.
 
-There are a few examples that should help you get started.
-The manual needs to be updated.
+Matlab toolboxes: Oprimization Toolbox and Curve Fitting Toolbox
 
+```bash
+git clone https://github.com/archit2604/Optragen.git
+cd Optragen
+git checkout obstacle_avoidance 
+```
+
+This fork removes the unneccesary files not needed for obstacleAvoidance.m
